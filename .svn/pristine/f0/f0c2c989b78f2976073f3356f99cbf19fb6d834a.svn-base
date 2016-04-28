@@ -1,0 +1,18 @@
+-Make sure that sprites move properly
+-Cannot move outside of the box
+-Game quits when pressing esc
+
+-Make sure treasure stuff initializes correctly
+-Make sure "treasure" shows up
+-Once passing over treasure, it should disappear
+-Inventory text should show up
+
+-Make sure health and inventory items display correctly
+-Make sure combat seems logical, both player and enemy hp should be something that makes sense
+-Make sure monster reappears in different places each time
+-Inventory items should update if they're different
+
+-Make sure the combat system works fine with the updated graphics
+-Make sure that clicking on inventory displays items, click again to close
+-Make sure saving/loading works (check health, items, positions)
+-Make sure buttons work correctly and display the right information

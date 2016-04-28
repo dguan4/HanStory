@@ -1,9 +1,13 @@
-Fire Emblem Fates: The Untold Story
+# Fire Emblem Fates: The Untold Story
 
-help taken from http://therealkatie.net/blog/tags/pygame/
-provided many ideas for making a classic rpg
+A RPG game made with PyGame on Python
 
-Also sprites taken from http://kenney.nl/assets/abstract-platformer
+## How to run
+
+You must have PyGame and Python installed (1.9.1 was used with this project, along with Python 3.5.1)
+After that, simply run the gameloop file in the src folder (i.e. python3 gameloop.py)
+
+## Summary
 
 This story is loosely based on a reddit post that I read about Hans, which was fairly satirical
 
@@ -17,3 +21,10 @@ However, Hans helps Corrin out quite often, most notably during the Conquest rou
 Thus is the untold story of the unsung hero, Hans
 
 Unfinished project, may work on if I have time later
+
+## Credits
+
+help taken from http://therealkatie.net/blog/tags/pygame/
+provided many ideas for making a classic rpg
+
+Also sprites taken from http://kenney.nl/assets/abstract-platformer
